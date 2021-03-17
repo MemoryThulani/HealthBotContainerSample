@@ -120,7 +120,8 @@ function initBotConversation() {
                                 trigger: "Extend_triage_with_handoff",
                                 args: {
                                     location: location,
-                                    myVar1: ""
+                                    name: "Thulani",
+                                    surname: "Khumalo"
                                 }
                             }
                             
